@@ -1,4 +1,4 @@
-#Exploración de posibilidades
+# Exploración de posibilidades
 
 La opción mas acorde a nuestros gustos y segun lo investigado se trata de:
 

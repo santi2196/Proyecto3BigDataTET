@@ -25,7 +25,7 @@ Ejemplos de aplicaciones que pueden beneficiarse de las percepciones obtenidas d
 ---
 
 
-##Referencias
+## Referencias
 
 - https://pdfs.semanticscholar.org/9e9f/49f490b1816b870e34738deea4bcc866768c.pdf
 

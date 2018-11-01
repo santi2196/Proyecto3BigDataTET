@@ -56,3 +56,8 @@ En esta parte aclararemos algunos conceptos clave que se maneja a lo largo del p
 	Normalmente, un almacén de datos es una base de datos relacional alojada en un servidor de mainframe empresarial o, cada vez más, en la nube. Los datos de varias aplicaciones de procesamiento de transacciones en línea (OLTP) y otras fuentes se extraen de forma selectiva para actividades de inteligencia empresarial, soporte de decisiones y para responder a las consultas de los usuarios.
 	
 	***Obtenido de:*** [Search DataManagent](https://searchdatamanagement.techtarget.com/definition/data-warehouse)
+holiii
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI4MDg0NzI1Nl19
+-->

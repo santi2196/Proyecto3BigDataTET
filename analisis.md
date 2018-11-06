@@ -25,6 +25,9 @@ Hoy en día, hay muchas herramientas en línea para medir su presencia en redes 
 
 Por estas razones, Stratebi ofrece su amplia experiencia en el negocio de código abierto. Campo de inteligencia (herramienta Pentaho Suite) y lo alienta a contactarnos para crear un proyecto que recopila todos los datos disponibles, en este caso datos de redes sociales y toma la mejor de la información mediante el diseño de KPI personalizados y la creación de paneles de control, informes y vistas de análisis. Construyendo soluciones a medida podremos analizar las Datos desde la perspectiva del cliente evitando que los usuarios tengan otras restricciones de herramientas.
 
+###Información Estructurada:
+Información estructurada son los datos que están perfectamente definidos y sujetos a un formato muy concreto. En una base de datos son campos con una definición específica: una fecha, un valor numérico en una factura, el tipo de IVA, el apellido de un cliente.(https://gestiondocumentalparagentenormal.com/2012/12/17/informacion-estructurada/)
+
 ***Obtenido de:*** [Social_BI_Analytics.doc](http://www.stratebi.es/todobi/abr13/Social_BI_Analytics.doc.pdf)
 
 ---
